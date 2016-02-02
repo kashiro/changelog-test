@@ -1,4 +1,14 @@
 <a name="1.1.3"></a>
+## [1.1.3](https://github.com/kashiro/changelog-test/compare/v1.1.3...v1.1.3) (2016-02-02)
+
+
+### Features
+
+* **package.json:** add config for release ([692681d](https://github.com/kashiro/changelog-test/commit/692681d))
+
+
+
+<a name="1.1.3"></a>
 ## [1.1.3](https://github.com/kashiro/changelog-test/compare/v1.1.1...v1.1.3) (2016-02-02)
 
 
