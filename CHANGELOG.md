@@ -1,4 +1,24 @@
 <a name="1.1.9"></a>
+## [1.1.9](https://github.com/kashiro/changelog-test/compare/v1.1.8...v1.1.9) (2016-02-02)
+
+
+### Features
+
+* **changelog:** update changelog ([5037755](https://github.com/kashiro/changelog-test/commit/5037755))
+
+
+
+<a name="1.1.9"></a>
+## [1.1.9](https://github.com/kashiro/changelog-test/compare/v1.1.8...v1.1.9) (2016-02-02)
+
+
+### Features
+
+* **changelog:** update changelog ([5037755](https://github.com/kashiro/changelog-test/commit/5037755))
+
+
+
+<a name="1.1.9"></a>
 ## [1.1.9](https://github.com/kashiro/changelog-test/compare/v1.1.9...v1.1.9) (2016-02-02)
 
 
