@@ -1,3 +1,13 @@
+<a name="1.1.7"></a>
+## [1.1.7](https://github.com/kashiro/changelog-test/compare/v1.1.6...v1.1.7) (2016-02-02)
+
+
+### Features
+
+* **readme:** update readme ([bc4f97b](https://github.com/kashiro/changelog-test/commit/bc4f97b))
+
+
+
 <a name="1.1.5"></a>
 ## [1.1.5](https://github.com/kashiro/changelog-test/compare/v1.1.3...v1.1.5) (2016-02-02)
 
