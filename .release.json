@@ -1,0 +1,5 @@
+{
+  "commitMessage": "Release v%s",
+  "tagName": "v%s",
+  "tagAnnotation": "Release v%s"
+}
