@@ -1,3 +1,9 @@
+<a name="1.2.3"></a>
+## [1.2.3](https://github.com/kashiro/changelog-test/compare/v1.2.3...v1.2.3) (2016-02-02)
+
+
+
+
 <a name="1.2.2"></a>
 ## [1.2.2](https://github.com/kashiro/changelog-test/compare/v1.2.0...v1.2.2) (2016-02-02)
 
