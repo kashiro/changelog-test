@@ -1,3 +1,13 @@
+<a name="1.2.6"></a>
+## [1.2.6](https://github.com/kashiro/changelog-test/compare/v1.2.4...v1.2.6) (2016-02-02)
+
+
+### Features
+
+* **readme:** foo bar ([e18a4b7](https://github.com/kashiro/changelog-test/commit/e18a4b7))
+
+
+
 <a name="1.2.4"></a>
 ## [1.2.4](https://github.com/kashiro/changelog-test/compare/v1.2.3...v1.2.4) (2016-02-02)
 
