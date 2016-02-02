@@ -1,3 +1,15 @@
+<a name="1.1.5"></a>
+## [1.1.5](https://github.com/kashiro/changelog-test/compare/v1.1.3...v1.1.5) (2016-02-02)
+
+
+### Features
+
+* **package.json:** add config for release ([692681d](https://github.com/kashiro/changelog-test/commit/692681d))
+* **readme:** modify readme ([13ebfb7](https://github.com/kashiro/changelog-test/commit/13ebfb7))
+* **readme:** update readme ([2199ac5](https://github.com/kashiro/changelog-test/commit/2199ac5))
+
+
+
 <a name="1.1.4"></a>
 ## [1.1.4](https://github.com/kashiro/changelog-test/compare/v1.1.3...v1.1.4) (2016-02-02)
 
