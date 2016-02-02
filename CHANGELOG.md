@@ -1,3 +1,13 @@
+### 1.2.7 (2016-02-02)
+
+
+#### Features
+
+* **readme:**
+  * update readme foo bar ([79879bea](https://github.com/kashiro/changelog-test#readme/commit/79879beaa269dc791abaaa253fef745a9608c98f))
+  * foo bar ([e18a4b7b](https://github.com/kashiro/changelog-test#readme/commit/e18a4b7b63d976ff405915c8fed695124c028e1a))
+
+
 <a name="1.2.6"></a>
 ## [1.2.6](https://github.com/kashiro/changelog-test/compare/v1.2.4...v1.2.6) (2016-02-02)
 
