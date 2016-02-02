@@ -1,3 +1,15 @@
+<a name="1.1.10"></a>
+## [1.1.10](https://github.com/kashiro/changelog-test/compare/v1.1.8...v1.1.10) (2016-02-02)
+
+
+### Features
+
+* **changelog:** update changelog ([5037755](https://github.com/kashiro/changelog-test/commit/5037755))
+* **readme:** modified readme ([d0077cf](https://github.com/kashiro/changelog-test/commit/d0077cf))
+* **readme:** update readme ([6b41944](https://github.com/kashiro/changelog-test/commit/6b41944))
+
+
+
 <a name="1.1.9"></a>
 ## [1.1.9](https://github.com/kashiro/changelog-test/compare/v1.1.8...v1.1.9) (2016-02-02)
 
