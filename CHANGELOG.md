@@ -1,3 +1,9 @@
+<a name="1.1.8"></a>
+## [1.1.8](https://github.com/kashiro/changelog-test/compare/v1.1.8...v1.1.8) (2016-02-02)
+
+
+
+
 <a name="1.1.7"></a>
 ## [1.1.7](https://github.com/kashiro/changelog-test/compare/v1.1.6...v1.1.7) (2016-02-02)
 
