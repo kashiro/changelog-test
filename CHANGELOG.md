@@ -1,3 +1,16 @@
+## 1.3.0 (2016-02-03)
+
+
+#### Bug Fixes
+
+* **readme:** change readme ([b93b2006](https://github.com/kashiro/changelog-test#readme/commit/b93b200616af6acb38247f623cc666936f478f24))
+
+
+#### Features
+
+* **readme:** update change ([e3ac865e](https://github.com/kashiro/changelog-test#readme/commit/e3ac865ea7a7e025cb22e10830e4e64fead1679e))
+
+
 ### 1.2.9 (2016-02-02)
 
 
